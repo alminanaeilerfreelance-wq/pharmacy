@@ -1,0 +1,3 @@
+- [x] Update `frontend/app/branches/page.tsx` to fix `useEffect` callback type by invoking async `load` inside a synchronous effect callback.
+- [ ] Run frontend type check/build to verify the TypeScript error is resolved.
+- [ ] Mark completed steps in this TODO.
